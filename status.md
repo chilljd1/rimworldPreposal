@@ -22,7 +22,7 @@ So far I have created my characters and started giving them dialogue
 
 #### What have you not done for your project yet?
 
- have not had my characters interact with each other yet
+I have not had my characters interact with each other yet
 
 #### What problems, if any, have you encountered?
 
